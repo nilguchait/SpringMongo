@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: restspring_project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nguchait
+Implementation-Vendor-Id: io.codeprac.springmongo
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/restspring_project
+Created-By: Maven Integration for Eclipse
+
